@@ -6,3 +6,6 @@
 加入414社团后，我希望我在游戏开发方面可以有一些进步，如3D建模的水平、C#以及其他计算机语言运用的熟练度。
 # 图片
 ![image](https://github.com/muwei5/Smh_414jion/blob/main/%E5%9B%BE%E7%89%87.png?raw=true)
+# 选答题
+设计思路：图片的主题是蒸汽朋克，运用PS软件，主要内容是蒸汽朋克世界观下的一个村庄远景，村庄周围围绕着烟雾，空中有木板机械为主的飞船，左上角的天上是一个齿轮造型的人造月亮。
+![image](https://github.com/muwei5/Smh_414jion/blob/main/%E8%92%B8%E6%B1%BD%E6%9C%8B%E5%85%8B1.png?raw=true)
